@@ -11,6 +11,7 @@ def bg_img():
     st.markdown(
         f""" 
     <style>
+    <meta http-equiv="Permissions-Policy" content="interest-cohort=()">
     .stApp
     {{
         background-image: url('https://png.pngtree.com/background/20230416/original/pngtree-fruit-cartoon-background-picture-image_2443618.jpg');
